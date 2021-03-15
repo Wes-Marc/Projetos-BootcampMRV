@@ -6,7 +6,7 @@ namespace Dio.Series
     {
         static void Main(string[] args)
         {
-            Serie minhasSeries = new Serie();
+            
             Console.WriteLine("Hello World!");
         }
     }
