@@ -1,0 +1,5 @@
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csprojAssemblyReference.cache
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
