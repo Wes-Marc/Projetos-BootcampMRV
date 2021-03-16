@@ -19,3 +19,14 @@ C:\Users\Wes\Documents\Cursos\Curso C#\DigitalIn_Bootcamp\Projetos-BootcampMRV\D
 C:\Users\Wes\Documents\Cursos\Curso C#\DigitalIn_Bootcamp\Projetos-BootcampMRV\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
 C:\Users\Wes\Documents\Cursos\Curso C#\DigitalIn_Bootcamp\Projetos-BootcampMRV\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
 C:\Users\Wes\Documents\Cursos\Curso C#\DigitalIn_Bootcamp\Projetos-BootcampMRV\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\Users\Mc-Instrutor\Desktop\DigitalIno\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
